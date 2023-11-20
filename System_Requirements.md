@@ -4,7 +4,7 @@ Before installing and using Alice AI, please ensure that your system meets the f
 
 ## Operating System
 
-- Windows 10/11 [Pre-tested on Windows 11]
+- Windows 7/10/11 [Pre-tested on Windows 11]
 
 ## Hardware Requirements
 
