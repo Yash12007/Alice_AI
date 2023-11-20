@@ -78,3 +78,5 @@ We welcome contributions! If you want to contribute to the development of Alice 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Yash12007/Alice_AI/blob/main/LICENSE.md) file for details.
+
+##### © 2023 Yash12007, All rights reserved.
